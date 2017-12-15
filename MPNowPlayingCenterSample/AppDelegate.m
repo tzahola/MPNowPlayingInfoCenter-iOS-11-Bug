@@ -1,11 +1,3 @@
-//
-//  AppDelegate.m
-//  MPNowPlayingCenterSample
-//
-//  Created by Tamas Zahola on 2017. 12. 15..
-//  Copyright © 2017. Skyscanner. All rights reserved.
-//
-
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
